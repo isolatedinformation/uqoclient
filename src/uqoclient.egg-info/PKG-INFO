@@ -5,7 +5,7 @@ Summary: Enhancements for the uqoclient
 Home-page: https://github.com/isolatedinformation/uqoclient
 Author: Varun Seshadri
 Author-email: varunseshadri@tum.de
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Bug Tracker, hhttps://github.com/isolatedinformation/uqoclient/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
